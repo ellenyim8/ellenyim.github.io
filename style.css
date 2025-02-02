@@ -6,8 +6,8 @@
 
 /*hero background image*/ 
 .bgimage {
-    height:90vh;
-    background: url('assets/website-headline.png');
+    height:140vh;
+    background: url('assets/Ellen.png');
     background-size:cover;
     position:relative;
 }
